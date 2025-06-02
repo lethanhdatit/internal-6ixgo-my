@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internal-6ixgo-my/static/css/main.b97d0e7b.css",
+    "main.js": "/internal-6ixgo-my/static/js/main.853b1d16.js",
+    "index.html": "/internal-6ixgo-my/index.html",
+    "main.b97d0e7b.css.map": "/internal-6ixgo-my/static/css/main.b97d0e7b.css.map",
+    "main.853b1d16.js.map": "/internal-6ixgo-my/static/js/main.853b1d16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97d0e7b.css",
+    "static/js/main.853b1d16.js"
+  ]
+}
